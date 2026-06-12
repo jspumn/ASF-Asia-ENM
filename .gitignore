@@ -1,0 +1,11 @@
+﻿# ---- Data & outputs (large files) ----
+data/raster/
+output/
+*.RData
+.Rhistory
+*.tif
+*.rds
+
+# ---- Misc temporary files ----
+*.log
+*.tmp
